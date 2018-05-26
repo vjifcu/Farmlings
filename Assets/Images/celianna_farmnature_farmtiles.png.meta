@@ -1,0 +1,2008 @@
+fileFormatVersion: 2
+guid: 5b85432cf496f5e41b4b44d4eec21d03
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: celianna_farmnature_farmtiles_0
+    21300002: celianna_farmnature_farmtiles_1
+    21300004: celianna_farmnature_farmtiles_2
+    21300006: celianna_farmnature_farmtiles_3
+    21300008: celianna_farmnature_farmtiles_4
+    21300010: celianna_farmnature_farmtiles_5
+    21300012: celianna_farmnature_farmtiles_6
+    21300014: celianna_farmnature_farmtiles_7
+    21300016: celianna_farmnature_farmtiles_8
+    21300018: celianna_farmnature_farmtiles_9
+    21300020: celianna_farmnature_farmtiles_10
+    21300022: celianna_farmnature_farmtiles_11
+    21300024: celianna_farmnature_farmtiles_12
+    21300026: celianna_farmnature_farmtiles_13
+    21300028: celianna_farmnature_farmtiles_14
+    21300030: celianna_farmnature_farmtiles_15
+    21300032: celianna_farmnature_farmtiles_16
+    21300034: celianna_farmnature_farmtiles_17
+    21300036: celianna_farmnature_farmtiles_18
+    21300038: celianna_farmnature_farmtiles_19
+    21300040: celianna_farmnature_farmtiles_20
+    21300042: celianna_farmnature_farmtiles_21
+    21300044: celianna_farmnature_farmtiles_22
+    21300046: celianna_farmnature_farmtiles_23
+    21300048: celianna_farmnature_farmtiles_24
+    21300050: celianna_farmnature_farmtiles_25
+    21300052: celianna_farmnature_farmtiles_26
+    21300054: celianna_farmnature_farmtiles_27
+    21300056: celianna_farmnature_farmtiles_28
+    21300058: celianna_farmnature_farmtiles_29
+    21300060: celianna_farmnature_farmtiles_30
+    21300062: celianna_farmnature_farmtiles_31
+    21300064: celianna_farmnature_farmtiles_32
+    21300066: celianna_farmnature_farmtiles_33
+    21300068: celianna_farmnature_farmtiles_34
+    21300070: celianna_farmnature_farmtiles_35
+    21300072: celianna_farmnature_farmtiles_36
+    21300074: celianna_farmnature_farmtiles_37
+    21300076: celianna_farmnature_farmtiles_38
+    21300078: celianna_farmnature_farmtiles_39
+    21300080: celianna_farmnature_farmtiles_40
+    21300082: celianna_farmnature_farmtiles_41
+    21300084: celianna_farmnature_farmtiles_42
+    21300086: celianna_farmnature_farmtiles_43
+    21300088: celianna_farmnature_farmtiles_44
+    21300090: celianna_farmnature_farmtiles_45
+    21300092: celianna_farmnature_farmtiles_46
+    21300094: celianna_farmnature_farmtiles_47
+    21300096: celianna_farmnature_farmtiles_48
+    21300098: celianna_farmnature_farmtiles_49
+    21300100: celianna_farmnature_farmtiles_50
+    21300102: celianna_farmnature_farmtiles_51
+    21300104: celianna_farmnature_farmtiles_52
+    21300106: celianna_farmnature_farmtiles_53
+    21300108: celianna_farmnature_farmtiles_54
+    21300110: celianna_farmnature_farmtiles_55
+    21300112: celianna_farmnature_farmtiles_56
+    21300114: celianna_farmnature_farmtiles_57
+    21300116: celianna_farmnature_farmtiles_58
+    21300118: celianna_farmnature_farmtiles_59
+    21300120: celianna_farmnature_farmtiles_60
+    21300122: celianna_farmnature_farmtiles_61
+    21300124: celianna_farmnature_farmtiles_62
+    21300126: celianna_farmnature_farmtiles_63
+    21300128: celianna_farmnature_farmtiles_64
+    21300130: celianna_farmnature_farmtiles_65
+    21300132: celianna_farmnature_farmtiles_66
+    21300134: celianna_farmnature_farmtiles_67
+    21300136: celianna_farmnature_farmtiles_68
+    21300138: celianna_farmnature_farmtiles_69
+    21300140: celianna_farmnature_farmtiles_70
+    21300142: celianna_farmnature_farmtiles_71
+    21300144: celianna_farmnature_farmtiles_72
+    21300146: celianna_farmnature_farmtiles_73
+    21300148: celianna_farmnature_farmtiles_74
+    21300150: celianna_farmnature_farmtiles_75
+    21300152: celianna_farmnature_farmtiles_76
+    21300154: celianna_farmnature_farmtiles_77
+    21300156: celianna_farmnature_farmtiles_78
+    21300158: celianna_farmnature_farmtiles_79
+    21300160: celianna_farmnature_farmtiles_80
+    21300162: celianna_farmnature_farmtiles_81
+    21300164: celianna_farmnature_farmtiles_82
+    21300166: celianna_farmnature_farmtiles_83
+    21300168: celianna_farmnature_farmtiles_84
+    21300170: celianna_farmnature_farmtiles_85
+    21300172: celianna_farmnature_farmtiles_86
+    21300174: celianna_farmnature_farmtiles_87
+    21300176: celianna_farmnature_farmtiles_88
+    21300178: celianna_farmnature_farmtiles_89
+    21300180: celianna_farmnature_farmtiles_90
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 785
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f138fcc1f7ebd64fb0e329b7f2b35e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 708
+        width: 123
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e63b631820e38409fdad45bb455a0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 708
+        width: 168
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f02ce6efeebc0b4fb7a879c6ff0daae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_3
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 708
+        width: 102
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f64272d8b1fecf4790be5e0890d9186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 711
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e1a0c2fed64104695df7fd23a8b07c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 718
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10babf60fd9ab9b4a8e697b2345cb4a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 711
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e81a342e32841544b5a1534113ceb8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 638
+        width: 168
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b955d7d060a6643af180f4b2766fa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 638
+        width: 168
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810dd24d8a3fa7743b688ae0ecde849e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_9
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 646
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09287f6db23e874996ea87387fbc12e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 646
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e43e07d6b5b844da8a25c0b5587b9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_11
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 648
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba25ac7bdd82ae24a9eaca46345ecacd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 581
+        width: 168
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8921b4a766b8f904c832b6a7297c242a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 579
+        width: 168
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0016684f83f6c49aa007fef8d65afe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_14
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 591
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6d68fe74371ae4da095dc287b01caf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_15
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 591
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151cbf00b3908754ba79950b502d58ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 589
+        width: 102
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d7eff1737ad5c46bddd0142fbf4d1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 521
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caf01b7d104be648ba634a8af699108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 521
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c96a06bace023c40a1fb40e756770e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 521
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bd5e732b6f9e0479d2a68a62b963ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 501
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b324c1bb347b58f44860f62a0638b7e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_21
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 501
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d0129dc0821a240a2bcf9aebe23920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_22
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 530
+        width: 102
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba494f89ad74c849b672f5db44f7041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 482
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ac8ab95bb417a4493fa380c17cb3cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 483
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160d759dac4a84b43a6e9c40c200427d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 484
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e7b3235af5bec43a28679f19ae3438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_26
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 434
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d835f9498ed00ed4eb4c02770b48fc07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_27
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 434
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ebc772ef2c38547863b5644bf8118a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_28
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 476
+        width: 102
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a3d1ffab171d148a04ca1d402210d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf4810d0be270a49872f817e35f6f0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 421
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da274f9fcdab3ef46aace35879d3255a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 421
+        width: 5
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995370764fc6f364f94ede8216a58c08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 414
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6add4d8d2c68a3748b21bf5423625ccc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_33
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 367
+        width: 97
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377c631f191dcc44b9106d745dd5ee40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_34
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 366
+        width: 97
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f615d9ac92932449a3e4e0d901798f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 357
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456266c92d2ec714795a26fd810412e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_37
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 357
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b22271beb6292741b1cf59d148ab3db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_38
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 363
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d4b43a28d5f454f93ee94e3c801fac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_39
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 338
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb477737f0bc6f4bba0afdddab42696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 292
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc662541e76f5f140b69889047b988e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_41
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 292
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856227dbd109a414aaf1f8fd54a2943a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_42
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 296
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff7a6eaf3cfe0641a4182337ef77fb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_43
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 296
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0965abc8208118e4cb81c4854de6b95a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_44
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 279
+        width: 208
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38760ade9a0f0444bb3bb61213b4d1e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_45
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 265
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40839284633bb94e913f15f4185a348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_46
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 290
+        width: 70
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fba04f09dfb51408f4f068ebc27bb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_47
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 184
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0aeb90cec20204d81a5e4eeec1af2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_48
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 233
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc236beee274cf84daf5d7b9df7c03f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_49
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 229
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75682b2135f30241bf1833b226fbf68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_50
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 235
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6d409d40c35ee4eb989a2e74d5116f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_51
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 234
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c47115cb10e3443990638b899135c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_52
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 181
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfabeba40dc9b943b199a901f85c272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_53
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 181
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61955525eb2617141ae120a0ad60797a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_54
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 179
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7402421c04f7dee4a8d20bd459fdd076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_55
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 179
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b273241f9f5cb3b4fa00723983a4c984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_56
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 203
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1fb53315517e24a986b9b316c224f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_57
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b851716b00ed1a478f6eb5cb0ea0842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_58
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 116
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780701d58f1b0654a99cdf4b7ad5183e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_59
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 116
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3441b4f027801c4d8eb28ecc61c65ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_60
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 72
+        width: 107
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6870cc6d981d8c94c975787241f2671b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_61
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 163
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ef7736221ae254e94771c1ae33b71f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_62
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 69
+        width: 36
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398540d7ba805a64dbc05371d58369de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_63
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 101
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c7bc5f3bb89e44993ddb115141ff68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_64
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 101
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc3bcb39be004249a3632c1b67c2b42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 86
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b751d385dcc51344bd187f9af984464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_66
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 75
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9066e86b27ce746babfa4fdc8a3922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_67
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 62
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7150ba07bfe61e408eabe7fc009e1cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_68
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ffe0a8adee86a4297c3c32c0fb7f2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_69
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 4
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b6105fc193e174fa63d811a4ac6d28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_70
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1220b45a2bd4e74f9b696c83b2badc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_71
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 4
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82015d63c45c7a44aa82f9fbc2bed52d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_72
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 6
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4b7a5aa72cc374cb87f3b00ff349ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_73
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 65
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3901d3bf18b76469bd8ec222ae20d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_74
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 63
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aeb088efe49f14b9680e86242e1206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_75
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 32
+        width: 4
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd1414c2f0e00b44a8c4b45774e9480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_76
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 10
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5223b3f4ca140144a602806d6fb8502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_77
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 6
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6591a7d7c2923f54e9a8e9e084963828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_78
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 4
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2ef12368a08cf45839e4efcdcf49b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_79
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 15
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4930264c27adf164d94831ea54ebb43a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_80
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d624c87aa39c649867274e866fca29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_81
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 184
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b8be47386f0af40b76d1de1feeffd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_82
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231a67fee76b90844815feee9576f237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_83
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fafe6063493d14ba645f63fdd78d1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_84
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 215
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba96fe1deabccd4684e825223c3fdd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_85
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 215
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342508b21ff859943ba204f84f8f91c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_86
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 400
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd1c8e83a4d27744848a8eed7702fa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_87
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 400
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdca929fec216e4c99b4ccc1fbfa571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_88
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 400
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9c2e18decca07448c145656555653e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_35
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 335
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab635a1a02e18341aa0cf0293d0351a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_89
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 335
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2f5d95d18393742af305044f9aee39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_farmnature_farmtiles_90
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 335
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74329306eabf09640a87718e7d1047d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3cfd659852023094692de3bd65c1d18c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
