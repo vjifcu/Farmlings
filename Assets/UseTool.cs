@@ -19,8 +19,11 @@ public class UseTool : MonoBehaviour {
 
     public Transform toolTrans;
     Tilemap farmTilemap;
-    public Tools heldTool = Tools.Hoe;
+    public Tools heldTool = Tools.None;
     public StrikeLocation strikeLocation;
+    public GameObject itemObj;
+    public Sprite[] toolSprites;
+    public SpriteRenderer renderer;
 
     void Start()
     {
@@ -44,6 +47,14 @@ public class UseTool : MonoBehaviour {
     public void EquipTool(Tools newTool)
     {
         heldTool = newTool;
+        if (newTool == Tools.None)
+            itemObj.SetActive(false);
+        else
+        {
+            print((int)newTool);
+            renderer.sprite = toolSprites[(int)newTool];
+            itemObj.SetActive(true);
+        }
     }
 
     void Use()
