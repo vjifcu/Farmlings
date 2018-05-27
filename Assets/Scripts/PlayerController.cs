@@ -47,13 +47,13 @@ public class PlayerController : MonoBehaviour {
 
         horizontalVelocity = finalSpeed.x;
         verticalVelocity = finalSpeed.y;
-
+        //rb.MovePosition(new Vector2(rb.position.x + horizontalVelocity, rb.position.y + verticalVelocity));
         rb.velocity = finalSpeed;
 
         horizontalVelocity *= deccel;
         verticalVelocity *= deccel;
 
-        if ((finalSpeed * deccel).magnitude <= 0.1f)
+        if ((finalSpeed * deccel).magnitude <= 0.01f)
         {
             horizontalVelocity = 0;
             verticalVelocity = 0;

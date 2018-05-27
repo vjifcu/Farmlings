@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fe360cfc3e1f0043a0a8c12145a946c, type: 3}
+  m_Name: DirtTile 1
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 2ec1847b9e617d74598b3e28a8cd7f72, type: 3}
+  crop: 0
+  tilled: 0
+  planted: 0
+  watered: 0
+  wilted: 0
+  growthStage: 0
