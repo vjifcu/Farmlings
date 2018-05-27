@@ -16,20 +16,33 @@ public class PlayerController : MonoBehaviour {
     public GameObject facingObj;
     public float rotation = 0;
 
+    public float storedXAxis;
+    public float storedYAxis;
+
+    private Animator myAnimator;
+
 	// Use this for initialization
 	void Start () {
         rb = GetComponent<Rigidbody2D>();
+        myAnimator = GetComponent<Animator>();
 	}
 
 	// Update is called once per frame
 	void Update () {
-        verticalVelocity += Input.GetAxis("Vertical") * accel;
-        horizontalVelocity += Input.GetAxis("Horizontal") * accel;
+        storedXAxis = Input.GetAxis("Vertical") * accel;
+        storedYAxis = Input.GetAxis("Horizontal") * accel;
 
+        if((storedXAxis > 0.01 || storedXAxis < -0.01) || (storedYAxis > 0.01 || storedYAxis < -0.01))
+        {
+            myAnimator.SetBool("walking", true);
+        }
 	}
 
     void FixedUpdate()
     {
+        verticalVelocity += storedXAxis;
+        horizontalVelocity += storedYAxis;
+
         Vector2 finalSpeed = new Vector2(horizontalVelocity, verticalVelocity);
         if (finalSpeed.magnitude > topSpeed)
             finalSpeed = finalSpeed.normalized * topSpeed;
@@ -53,11 +66,17 @@ public class PlayerController : MonoBehaviour {
         horizontalVelocity *= deccel;
         verticalVelocity *= deccel;
 
-        if ((finalSpeed * deccel).magnitude <= 0.01f)
+        if ((finalSpeed * deccel).magnitude <= 0.2f)
         {
             horizontalVelocity = 0;
             verticalVelocity = 0;
+            myAnimator.SetBool("walking", false);
+        } else
+        {
+            myAnimator.SetBool("walking", true);
         }
+        if(myAnimator.GetBool("walking"))
+            DefinePlayerDirection(finalSpeed);
     }
 
     public void Disable()
@@ -65,8 +84,14 @@ public class PlayerController : MonoBehaviour {
         rb.velocity = Vector2.zero;
         horizontalVelocity = 0f;
         verticalVelocity = 0f;
+        myAnimator.SetBool("walking", false);
         enabled = false;
     }
 
+    void DefinePlayerDirection(Vector2 input)
+    {
+        myAnimator.SetFloat("InputX", input.x);
+        myAnimator.SetFloat("InputY", input.y);
+    }
 
 }

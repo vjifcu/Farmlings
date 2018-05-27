@@ -11796,16 +11796,16 @@ Prefab:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 50818568959987120, guid: 83ba0c0f6405c824d936009cd5ffe8d6,
-        type: 2}
-      propertyPath: m_Constraints
-      value: 4
+    - target: {fileID: 4340435105126288, guid: 83ba0c0f6405c824d936009cd5ffe8d6, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0.8
       objectReference: {fileID: 0}
-    - target: {fileID: 50818568959987120, guid: 83ba0c0f6405c824d936009cd5ffe8d6,
+    - target: {fileID: 212324371383349160, guid: 83ba0c0f6405c824d936009cd5ffe8d6,
         type: 2}
-      propertyPath: m_CollisionDetection
-      value: 1
-      objectReference: {fileID: 0}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: bd0e584c98914644cb22324e099953ea,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 83ba0c0f6405c824d936009cd5ffe8d6, type: 2}
   m_IsPrefabAsset: 0

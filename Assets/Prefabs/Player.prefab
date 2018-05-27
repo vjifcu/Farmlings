@@ -24,6 +24,7 @@ GameObject:
   - component: {fileID: 61019824160627272}
   - component: {fileID: 114319014535326658}
   - component: {fileID: 114424185774670106}
+  - component: {fileID: 95771867385200232}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -144,8 +145,8 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
+  m_CollisionDetection: 1
+  m_Constraints: 4
 --- !u!58 &58289947497409434
 CircleCollider2D:
   m_ObjectHideFlags: 1
@@ -186,6 +187,24 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.8, y: 0.8}
   m_EdgeRadius: 0
+--- !u!95 &95771867385200232
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000596564320982}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9bc75e7fbe8eee242b7434bc95232fc3, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!114 &114239534912228084
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -218,6 +237,8 @@ MonoBehaviour:
   topSpeed: 4.5
   facingObj: {fileID: 1475520831189322}
   rotation: 0
+  storedXAxis: 0
+  storedYAxis: 0
 --- !u!114 &114424185774670106
 MonoBehaviour:
   m_ObjectHideFlags: 1

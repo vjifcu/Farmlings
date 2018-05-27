@@ -10,14 +10,9 @@ public class GlobalObjects : MonoBehaviour {
     public GameObject farmplot;
     public Transform farmplots;
 
-	// Use this for initialization
-	void Start () {
-        Instance = this;
-
-	}
-
     void Awake()
     {
+        Instance = this;
         List<FarmTile> tiles = new List<FarmTile>();
 
 

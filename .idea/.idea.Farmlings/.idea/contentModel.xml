@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Victor\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_Farmlings.-1143294383.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Victor\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.package-manager-ui@1.9.8\Editor\Resources\Styles" t="Include">
+      <e p="Main_Dark.uss" t="Include" />
+      <e p="Main_Light.uss" t="Include" />
+    </e>
+    <e p="C:\Users\Victor\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.package-manager-ui@1.9.8\Editor\Resources\Templates" t="Include">
+      <e p="Alert.uxml" t="Include" />
+      <e p="PackageDetails.uxml" t="Include" />
+      <e p="PackageGroup.uxml" t="Include" />
+      <e p="PackageItem.uxml" t="Include" />
+      <e p="PackageList.uxml" t="Include" />
+      <e p="PackageManagerWindow.uxml" t="Include" />
+      <e p="PackageSearchFilterTabs.uxml" t="Include" />
+      <e p="PackagesLoading.uxml" t="Include" />
+    </e>
+    <e p="C:\Users\Victor\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.standardevents@1.0.13\Editor" t="Include">
+      <e p="Importer.cs" t="Include" />
+    </e>
+    <e p="C:\Users\Victor\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.textmeshpro@1.2.1\Scripts\Runtime" t="Include">
+      <e p="FastAction.cs" t="Include" />
+      <e p="MaterialReferenceManager.cs" t="Include" />
+      <e p="PackageResourceImporterWindow.cs" t="Include" />
+      <e p="TextContainer.cs" t="Include" />
+      <e p="TextMeshPro.cs" t="Include" />
+      <e p="TextMeshProUGUI.cs" t="Include" />
+      <e p="TMP_Asset.cs" t="Include" />
+      <e p="TMP_ColorGradient.cs" t="Include" />
+      <e p="TMP_Compatibility.cs" t="Include" />
+      <e p="TMP_CoroutineTween.cs" t="Include" />
+      <e p="TMP_DefaultControls.cs" t="Include" />
+      <e p="TMP_Dropdown.cs" t="Include" />
+      <e p="TMP_FontAsset.cs" t="Include" />
+      <e p="TMP_InputField.cs" t="Include" />
+      <e p="TMP_InputValidator.cs" t="Include" />
+      <e p="TMP_LineInfo.cs" t="Include" />
+      <e p="TMP_ListPool.cs" t="Include" />
+      <e p="TMP_MaterialManager.cs" t="Include" />
+      <e p="TMP_MeshInfo.cs" t="Include" />
+      <e p="TMP_ObjectPool.cs" t="Include" />
+      <e p="TMP_ScrollbarEventHandler.cs" t="Include" />
+      <e p="TMP_SelectionCaret.cs" t="Include" />
+      <e p="TMP_Settings.cs" t="Include" />
+      <e p="TMP_Sprite.cs" t="Include" />
+      <e p="TMP_SpriteAnimator.cs" t="Include" />
+      <e p="TMP_SpriteAsset.cs" t="Include" />
+      <e p="TMP_SpriteAssetImportFormats.cs" t="Include" />
+      <e p="TMP_Style.cs" t="Include" />
+      <e p="TMP_StyleSheet.cs" t="Include" />
+      <e p="TMP_SubMesh.cs" t="Include" />
+      <e p="TMP_SubMeshUI.cs" t="Include" />
+      <e p="TMP_Text.cs" t="Include" />
+      <e p="TMP_TextElement.cs" t="Include" />
+      <e p="TMP_TextInfo.cs" t="Include" />
+      <e p="TMP_TextUtilities.cs" t="Include" />
+      <e p="TMP_UpdateManager.cs" t="Include" />
+      <e p="TMP_UpdateRegistery.cs" t="Include" />
+      <e p="TMP_XmlTagStack.cs" t="Include" />
+      <e p="TMPro_EventManager.cs" t="Include" />
+      <e p="TMPro_ExtensionMethods.cs" t="Include" />
+      <e p="TMPro_FontUtilities.cs" t="Include" />
+      <e p="TMPro_MeshUtilities.cs" t="Include" />
+      <e p="TMPro_Private.cs" t="Include" />
+      <e p="TMPro_ShaderUtilities.cs" t="Include" />
+      <e p="TMPro_UGUI_Private.cs" t="Include" />
+    </e>
+    <e p="C:\Users\Victor\Documents\Unity\Projects\Farmlings" t="IncludeRecursive">
+      <e p="Assets" t="Include">
+        <e p="DOTween" t="Include">
+          <e p="DOTween.XML" t="Include" />
+          <e p="DOTween43.xml" t="Include" />
+          <e p="DOTween46.xml" t="Include" />
+          <e p="DOTween50.xml" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="DOTweenEditor.XML" t="Include" />
+          </e>
+          <e p="readme.txt" t="Include" />
+        </e>
+        <e p="XInputDotNet" t="Include">
+          <e p="Docs.txt" t="Include" />
+          <e p="MITLicense.txt" t="Include" />
+        </e>
+      </e>
+      <e p="Farmlings.csproj" t="IncludeRecursive" />
+      <e p="Farmlings.Editor.csproj" t="IncludeRecursive" />
+      <e p="Farmlings.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="UnityVS_bin\Debug" t="ExcludeRecursive" />
+        <e p="UnityVS_obj\Debug" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

@@ -38,6 +38,23 @@ public class CropObject : MonoBehaviour {
             renderer.enabled = true;
             tilled = true;
             renderer.sprite = tilledSprite;
+        } else if (tool == Tools.WateringCan && tilled && !watered)
+        {
+            watered = true;
+            renderer.color = new Color(170f/255, 170f/255, 170f/255);
+        } else if (tool == Tools.Sickle && planted)
+        {
+            print("Used Sickle");
+            planted = false;
+            tilled = false;
+            watered = false;
+            renderer.color = Color.white;
+        } else if (tool != Tools.None && tilled && !planted)
+        {
+            //Held tool must be seeds, by elimination.
+            //The PROPER way to do this would be through bit operations with the enum, but it's CRUNCH TIME
+            print("Planted seed");
+            planted = true;
         }
     }
 }

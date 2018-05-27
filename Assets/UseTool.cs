@@ -11,7 +11,8 @@ public enum Tools
     TomatoSeed,
     CarrotSeed,
     OnionSeed,
-    GreenBeanSeed
+    GreenBeanSeed,
+    None
 }
 
 public class UseTool : MonoBehaviour {
